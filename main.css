@@ -1,0 +1,22 @@
+.glyphicon {
+	color: red;
+	font-size: 24px;
+	position:absolute;
+	height: 24px;
+	width: 24px;
+}
+.jumbotron {
+	position: relative;
+}
+.test {
+	background: red;
+	height: 200px;
+	width: 200px;
+	position: relative;
+}
+.test2 {
+	background: green;
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
